@@ -1,12 +1,11 @@
 <div align ="center">
-<h1 aling ="center"> Hola, soy Francisco 
+<h1 aling ="center"> Proyecto de bases de datos 
 </div>
 
-## Sobre mí 
+## Descripción
 
-- Soy sociólogo, nacido en la Ciudade de México
-- Tengo una maestría en Demografía social
-- Actualmente estoy tomando un bootcamp de Data Analyst en Triple Ten en el que he desarrollado proyectos reales de analisis de datos en ventas, principalmente con tecnologías
-- con programas como Excel, SQL. Con lenguajes de programación como Python.
+- Proyectos de bases de datos de ventas 
+- En estas bases de datos se exploran diversos enfoques para la visualización de datos con SQL, Excel y lenguajes de programación como Python para buscar patrones de comportamiento en usuarios
+- También se observa como se relacionan los índices de tráfico y el PIB per cápita en las principales ciudades de Latinoamerica. 
 - 
 
